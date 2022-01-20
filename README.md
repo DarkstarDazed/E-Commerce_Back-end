@@ -10,6 +10,8 @@ Using Postman or Insomnia, run http://localhost:3001/ to be able to add, delete,
 
 ## Walkthrough Video 
 
+https://watch.screencastify.com/v/yeVyRfcoDhi8VMOTlWJT
+
 ## Questions 
 
 Feel free to [email](mediazjr@gmail.com) me or contact me on [github](https://github.com/mediazjr)!
